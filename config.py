@@ -1,5 +1,5 @@
 CLIENT_ID = '2dad59e2b99c469a902375e0f24898c3'
 CLIENT_SECRET = '11f101ac39eb49c5aa1b84688b08a0c8'
-REDIRECT_URI = 'http://localhost:8080'
+REDIRECT_URI = 'http://localhost'
 DB_NAME = 'protect.db'
 USERS_DB = 'users.json'
