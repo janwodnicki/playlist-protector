@@ -100,4 +100,5 @@ if __name__ == "__main__":
         )
     )
     print(update_playlists(con, sp))
+    con.close()
     exit()

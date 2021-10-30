@@ -27,4 +27,5 @@ if __name__ == "__main__":
     con = Connection(DB_NAME)
     df = pd.read_sql(f"SELECT * FROM playlists", con)
     print(df[df.owner == uri].head(limit))
+    con.close()
     exit()
