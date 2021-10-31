@@ -34,6 +34,9 @@ def get_playlists(sp):
 
     p_dicts = list()
     for p in owner_playlists:
+        if len(p['images']) > 0:
+            image_url = p['images'][0]['url']
+        else: image_url = ""
         p_dict = dict()
         p_dict.update({
             'playlist_uri': p['uri'],
@@ -42,7 +45,7 @@ def get_playlists(sp):
             'owner': p['owner']['uri'],
             'name': p['name'],
             'description': p['description'],
-            'image_url': p['images'][0]['url'],
+            'image_url': image_url,
             'timestamp': datetime.now()
         })
         p_dicts.append(p_dict)
