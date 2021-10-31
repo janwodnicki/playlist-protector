@@ -13,7 +13,6 @@ from pandas.io.sql import DatabaseError
 import requests
 import base64
 from docopt import docopt
-from time import sleep
 
 def get_as_base64(url):
     return base64.b64encode(requests.get(url).content)
@@ -83,7 +82,6 @@ def update_playlists(con, sp):
 
         else: continue
     
-    sleep(5)
     new = get_playlists(sp)
     new.to_sql('playlists', con, if_exists='append', index=False)
     return updated
