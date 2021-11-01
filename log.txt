@@ -1,0 +1,2118 @@
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     Mzc2LGQxNGUxZTdlNTcwNGE3MmY5ZTA1NWEyOWIxZjgzOW...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description     mainly coming of age type songs from my fave m...
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 00:45:03.877590
+Name: 840, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     Mzc3LDU5MGY1NTU4MmYzOGUzYjRiOTliZTZjNDY2YWM4Zm...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 00:50:03.065808
+Name: 117, dtype: object)]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     MzgxLDk1MDI3MDllZGRhZDczYTUyNWVmMDU0ZDcyNTQ4Yj...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description     mainly coming of age type songs from my fave m...
+image_url       https://i.scdn.co/image/ab67706c0000bebb0a61f8...
+timestamp                              2021-10-31 00:55:03.875073
+Name: 1098, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     MzgzLDFmNDA4NTY2NjVmMzZlMzJhYmFlZGE0ODRkNmY2ZD...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 01:05:02.880375
+Name: 117, dtype: object)]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     Mzg3LGMwNTAzNTgwNzA0ZWFjMDg2Yzc1MDE0NWFmMDYwMz...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description     mainly coming of age type songs from my fave m...
+image_url       https://i.scdn.co/image/ab67706c0000bebbba8a5e...
+timestamp                              2021-10-31 01:10:04.175579
+Name: 1356, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     Mzg4LDQ2M2FjNTk3YzZiMDQ5NDgxZDA5NmViZDQ1NDEyZG...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 01:15:02.703342
+Name: 117, dtype: object)]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     MzkyLDQ3OWU5NjkzYzVhZjQxNGUyODkxZTljNmExZDNmYT...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description     mainly coming of age type songs from my fave m...
+image_url       https://i.scdn.co/image/ab67706c0000bebb6b5873...
+timestamp                              2021-10-31 01:25:04.759494
+Name: 1743, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     MzkzLDU3NzU1MTQ0NmEyMjEzODEyNzU3YjM2YTk3MDhiMT...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 01:30:03.322271
+Name: 117, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     Mzk3LDBjODk4Nzc0YmFmNTJiYzNiZGU2Yzg0YWI5NjYyZD...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description     mainly coming of age type songs from my fave m...
+image_url       https://i.scdn.co/image/ab67706c0000bebb5c137b...
+timestamp                              2021-10-31 01:40:03.777504
+Name: 2904, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     Mzk4LGIxNzA1NmY4YmI2YTI4MGUwMTE1NzJkMDMyZDEwOW...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 01:41:03.361118
+Name: 117, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDAyLDkxNmNmZmI3NTcwMjRhMDg0MjExZDVkYzI2YTI1ZW...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description     mainly coming of age type songs from my fave m...
+image_url       https://i.scdn.co/image/ab67706c0000bebb1957a1...
+timestamp                              2021-10-31 01:53:03.710326
+Name: 4581, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDAzLDI2NzBiMjUyNzFjY2JiYTU3Yjg0MDljN2E1OTkxOD...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 01:54:03.010605
+Name: 117, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDA4LDNiMjY5OTY0NTQ4OWVjZDY3NDVjNTRhMGRlOTllZj...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb8eac18...
+timestamp                              2021-10-31 02:06:03.576708
+Name: 6258, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDA5LDdmY2Q3Njg3NmJhNDk4N2MwMTExYTU2N2U3MDYxYj...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 02:07:02.763395
+Name: 117, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDE0LDFlNTQzNzJiNGU0NDYzZGI2MDg3YmZjMzNkYzdiNW...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb4b71fa...
+timestamp                              2021-10-31 02:19:04.352407
+Name: 7935, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDE1LDMwN2RiZTk5YmNhMDkyOTk4YjNhZDM0NTQwZWNhMT...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 02:20:02.897344
+Name: 117, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDE5LGM0ODQzZjRmYzg5ZjJiOGQxM2JlMDUwODZkNDU4Ym...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb142cd8...
+timestamp                              2021-10-31 02:46:03.975907
+Name: 11418, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDIwLDA0MmY1ZmNmOGRiZTI0YzY5Nzk2MTYyZDQ1YzA1ZD...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 02:47:02.413726
+Name: 117, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDI2LGIwMDVlYjdkNGIxOTczNGU2YmZmNDZjNzczNGI2ZT...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb9314d3...
+timestamp                              2021-10-31 02:57:04.509405
+Name: 12730, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDI3LGY5ZDM2MzQzMDYwZDRlNTY4YTNlNmUzNTQzY2ZhYW...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 02:58:02.767724
+Name: 10, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDM2LGQxYjc0NWI0YWNkNDQ0NGQxMjFiMzViMDA3NjcwNz...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebbe54160...
+timestamp                              2021-10-31 04:02:04.324100
+Name: 15621, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDM3LGYwY2I0MDRlOTI1Y2ZhMTAzMmRjM2Y5MzJkODk4MD...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 04:03:02.487563
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDQxLGYwYWM5NDc4MmYyYzlkMjgzNDJiZDYwYzgzMzI5Nm...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb52842b...
+timestamp                              2021-10-31 04:14:04.297604
+Name: 17217, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDQyLDM2NWZmNzFiYmVlYWIzMjk5Njk1ZDFmODZjMjNiZW...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 04:16:02.269977
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDQ2LDMwMzQ3NWJlMDllYjY5YzNlMmNiZDkwMjQ2YjVmNT...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb8a6577...
+timestamp                              2021-10-31 04:27:04.592969
+Name: 18946, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDQ3LDI1YzU5MjdmMTAxN2I4YzNmMGNjZTZhYWI4OWU5Nm...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 04:28:02.748511
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDUwLDBkYmNlYTIxOTU2NWQzZjJkZjZiMTljMjI0ODJkMT...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebbedc1cd...
+timestamp                              2021-10-31 04:42:04.656261
+Name: 20808, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDUxLDllODlkMDI0MDhmOGY0OWI2YWExMjAzYzViMWFmYj...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 04:43:02.936847
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDU1LDlhYmZkNWNkMWZkNTEzMzFhN2MyNjYwMWNmZmVlYz...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebbbe3614...
+timestamp                              2021-10-31 04:55:05.147039
+Name: 22537, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDU2LDRkYjYyMTMzZTVkMDczOTY2M2IwNWRjYWQ4MzMzNj...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 04:56:02.433549
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDYwLDU0YzMzMzg0NDM5OGNhY2ZmODAxNTE0YmFlMDg3Mj...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebbe68733...
+timestamp                              2021-10-31 05:07:04.532280
+Name: 24133, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDYxLDUzZDdlNGMzMDQ1NTdjMmQxYmEzZTQ5MDI2MTk0Mm...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 05:08:02.736086
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDY1LGNkZGQ1M2FhODBjNzE5OWI3YjYxNzdhN2U2YTA0NG...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb6dcc0a...
+timestamp                              2021-10-31 05:19:05.501172
+Name: 25729, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDY2LDlkODFmYTY5NjVmZWFkNTIwYTc4OTg2Yzg1NTdkYj...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 05:20:02.760162
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDcwLGIwZTE4NTYzY2RjODgzMmU3NTNlNDM0Nzk3NmJhOW...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb0168ea...
+timestamp                              2021-10-31 05:32:05.049312
+Name: 27458, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDcxLDVhOTE1NzZmZTU3NDMzNzRmOTRlZjkyNzcwODhmMm...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 05:33:02.250257
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDc1LDQzNWQyYzFlYmZlYmQzZjRjMWExMWE1YjU3NDc2Nz...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb41adac...
+timestamp                              2021-10-31 05:46:05.414785
+Name: 29320, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDc2LGU5OGE5MGNjYjQ5Y2NiZGY0YWE1NzBkMzg0NzMwZm...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 05:47:02.668768
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDgwLGVjYzczMmFhNGQ4ZDQ5ZDA3ZWMyYTY5MzcxMmQ0MT...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb669df2...
+timestamp                              2021-10-31 05:59:05.769045
+Name: 31049, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDgxLDFiMGZlODNhMDc1MzIzZDU0YzZlNWM0NTY2MzMyZT...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 06:00:03.124735
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDg1LDhhNTRhZTE3ZGIzZDhlYTI3MDZmNGZjZTUyZmE5OD...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb9f9183...
+timestamp                              2021-10-31 06:14:05.913788
+Name: 33044, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDg2LGE2NGUyZGIyMzA5ZjQ3NDM2ZjcxNzY4MTM4OWViOW...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 06:15:03.167506
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDkwLDUzMjE2OTM0ZTIzZDdiMzcxNjQ5MDFlMGI1MTBiYT...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb13cd4e...
+timestamp                              2021-10-31 06:26:05.557871
+Name: 34640, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDkxLDlmNWEzNTE2ODk1ZDlkZmQ0NmQwNTAxZWQ0OGU3NW...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 06:27:02.812166
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDk1LDIyYjg3NmNmNzVmMWYxNjFkYjZjNDJiMjVjYzExMz...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb8481d2...
+timestamp                              2021-10-31 06:40:06.148151
+Name: 36502, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NDk2LDNjNTI3OWNkZWE2MWZhOGMyNWFhMmUxZGRkM2YwYj...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 06:41:02.321510
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NTAwLGZjMDYzMzgyNjE5ZjYyNzgxNmJlZDA0MGQwMTVkYj...
+owner                                     spotify:user:1254757778
+name                                            my life’s a movie
+description                songs from my fave movies and tv shows
+image_url       https://i.scdn.co/image/ab67706c0000bebb6bd599...
+timestamp                              2021-10-31 06:53:06.175116
+Name: 38231, dtype: object, playlist_uri              spotify:playlist:7M7K49znBG3ImS8Shstl1U
+playlist_id                                7M7K49znBG3ImS8Shstl1U
+snapshot_id     NTAxLGViYjE2YTU2ZTBlOWQ1ZDA5YmMwODNiMjQ2ZTQ0Mj...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b27310a...
+timestamp                              2021-10-31 06:54:02.318579
+Name: 11, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTU2LGNmMTE2ODhmZDI0OWEzZGZlMGU3NThlNzQ3YTIxZW...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &#x2F; packing &#x2F; moving &#x2F;...
+image_url       https://i.scdn.co/image/ab67706c0000bebbaea5f2...
+timestamp                              2021-11-01 13:10:14.782920
+Name: 127747, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTU3LDVlNjZkZGE1ZGNkZDFjZTQxMzI3YTRiMzBjNjEyMm...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 13:20:03.235996
+Name: 4, dtype: object)]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTYxLDAzYjFhODI2NDE0YTEzNGI4ZDgzZTQ5MDk2OWM2Yj...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;#x2F; packing &amp;#x2F; movin...
+image_url       https://i.scdn.co/image/ab67706c0000bebb348f89...
+timestamp                              2021-11-01 13:20:17.958408
+Name: 127882, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTYyLGMyNmU2Mjc5NmZjYzEyMWJmZWE3MmZmZmMyOGY1OW...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 13:30:02.298835
+Name: 4, dtype: object)]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTY2LDE5MThiNjY0ZGM3ZjI0OTY0ZWU0Y2Y1MzRmOTQ1Yj...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;#x2F; packing &amp;amp;#x2...
+image_url       https://i.scdn.co/image/ab67706c0000bebb804306...
+timestamp                              2021-11-01 13:30:17.063065
+Name: 128017, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTY3LDFkOWMxMTQ2YzljYThhYzZiN2U1NzIxYTdhZGJlYW...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 13:40:02.563078
+Name: 4, dtype: object)]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTcxLDVhYTdjMTA0OTdlYzZlOTU3OTQyNTI4NDUyOWJkNm...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;#x2F; packing &amp;amp...
+image_url       https://i.scdn.co/image/ab67706c0000bebb2624f2...
+timestamp                              2021-11-01 13:50:15.322787
+Name: 128287, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTcyLDJkYzkwOTQyMjE1MmQwOTFlMzQwMGNjNTFlZjI3Mz...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 14:00:02.813765
+Name: 4, dtype: object)]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTc2LDRmODg0MTQ1ODUzNWEzODNlNGY0YzRhN2RlYzdiNG...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;#x2F; packing &amp...
+image_url       https://i.scdn.co/image/ab67706c0000bebb9f9789...
+timestamp                              2021-11-01 14:00:17.894182
+Name: 128422, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTc3LDgyOWY5MzhkNmQzYTQ0MjA1YThlYzRkODRkOWZhND...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 14:10:02.291626
+Name: 4, dtype: object)]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTgxLGI1YjFmYmVhNzkxMTE3ODk3ZTZhOGVlZDUzY2Q2Mm...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;#x2F; packing ...
+image_url       https://i.scdn.co/image/ab67706c0000bebbf88330...
+timestamp                              2021-11-01 14:20:15.288338
+Name: 128692, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTgyLGQ3ZTE1ZjBiZGRmYjA2YTA3ZDE4M2E0MWMxNWU0NT...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 14:30:02.754564
+Name: 4, dtype: object)]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTg2LDg0NWVmOWExMGNhMTJkODY2Mzc5ZDkzMDhmNjYxYj...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;#x2F; pack...
+image_url       https://i.scdn.co/image/ab67706c0000bebb9aeb83...
+timestamp                              2021-11-01 14:40:15.725743
+Name: 128962, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTg3LGY1YjhjNTdkNGQ5NTA1ODJkNjIwYjQ1NGQxODYzOD...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 14:50:03.100422
+Name: 4, dtype: object)]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTkwLGY3NjE3OGUyZWM0MWEyNWNiNDBmOGExYjU3Mzc5MG...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;#x2F; ...
+image_url       https://i.scdn.co/image/ab67706c0000bebbbc9e72...
+timestamp                              2021-11-01 14:50:17.967761
+Name: 129097, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTkyLDQ3NjU1OWJkMDQwODgwZWYzYjg2ZDcxOGIzMjNmMD...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 15:00:02.547507
+Name: 4, dtype: object)]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTk2LDkxMGQ2NmJmMWZjMDViNjg2YTdjMjEwOTA5NTQxN2...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;#x...
+image_url       https://i.scdn.co/image/ab67706c0000bebb6841e7...
+timestamp                              2021-11-01 15:00:17.510283
+Name: 129232, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MTk3LDczNzE5MGI1YzlhOTE4ODkxOTcyOTMxYjU1Y2Y2ZT...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 15:10:03.197112
+Name: 4, dtype: object)]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjAxLGIwNTM4NWVmOTIxZjQxZjg4MTIyOGY4MDFlODUzND...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebbb4ff73...
+timestamp                              2021-11-01 15:10:18.008654
+Name: 129367, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjAyLDllZmRhZjgzMTI0Y2EwMzE0MmJiMzJmYmNjMTQ4Nj...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 15:20:03.094313
+Name: 4, dtype: object)]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjA2LGRkZWNiMGY5Mzk1NDQ2ZmYzNTFlNDdkNjY3NWEyNW...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebbe594d4...
+timestamp                              2021-11-01 15:30:14.979787
+Name: 129637, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjA3LGI4M2IzYjQzYmM1N2ZhZDgyOWFmYzg4MjI2ODU5Y2...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 15:40:02.416188
+Name: 4, dtype: object)]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjExLGQ2MTVkYjY4N2FhODA3MjEwZTQ1OTg4OTE3ZjRhYj...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebbe1ed48...
+timestamp                              2021-11-01 15:40:16.994173
+Name: 129772, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjEyLGQ0M2Q3OGJmMTI0ZDhkZDUwYWI5NjY0ODVmN2FjMG...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 15:50:02.548010
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjE2LDgxMjNjNjM2YzVkNWZjZDc5NGMwNGJmMmY3MTc5ZT...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebbd381e2...
+timestamp                              2021-11-01 16:02:15.504247
+Name: 131257, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjE3LDYzNGI2NzNiZDBiZTM4NjgwZjAzNDNlMjQxOWMyYT...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 16:03:02.775118
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjIxLDRiODhkNzRlYjUyZWUxNWY4YjdjODMwMDg3NWY4Nz...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebbcdd8ae...
+timestamp                              2021-11-01 16:26:15.796160
+Name: 134497, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjIyLGNhZjMwYjBmNTQxM2Q1ZGNlMmNhY2NlOGE5MzJiMj...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 16:28:03.123203
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjI2LDY2YjM5MWJjYmUxMjI3MzBkM2FhNTNjMWE5ZDAzZT...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebb462d58...
+timestamp                              2021-11-01 16:39:17.693141
+Name: 136252, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjI3LDg4Mjk5NTAzMGNmMWVjMzg3NzBhZTE1ZjM2YWI1Yz...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 16:40:03.221200
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjMxLDU1YTVkNGVjOTNkMzU1ZjUwYjE5NTZhOGRjMjY0Ym...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebb7e95ac...
+timestamp                              2021-11-01 16:53:16.772326
+Name: 138142, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjMyLDU5YzAzYzczYTkzM2JhN2MzZmRhMWFkZTNiZTM5Mj...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 16:54:03.299789
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjM2LGU3OGY5OGI5ZjViMTMzOWRiZTU4NWE1YjE2NGVlN2...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebba21c38...
+timestamp                              2021-11-01 17:15:17.261465
+Name: 141112, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjM3LGFmNjFlMDc5OGViNWRjY2QwNTc4MzYwYzFlM2U0OG...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 17:17:03.109833
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjQxLGY2OGQwYTBiZGQxZDgwZTRhOGVkZDVhYTNlNDY4Zj...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebbf8679c...
+timestamp                              2021-11-01 17:39:16.872102
+Name: 144352, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjQyLDcyMDljMDNiNzQwYmM5ODU3ZmM4ZjhjNDgzMjM1Yz...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 17:40:03.411837
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjQ2LDk2MzEwNzI2NTIzMzZjMTc5YTQ0MDM1OTkzOTk2ZW...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebb56fd5b...
+timestamp                              2021-11-01 17:51:18.304429
+Name: 145972, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjQ3LDY3NDM2NjQ1OTQ4MThhYjAxMWU1N2EyMTViNjNmN2...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 17:52:02.685539
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjUxLGMzMzk4OTA0YmFmODkyODIzZDVhMjllMWM5N2IzMD...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebbbe5581...
+timestamp                              2021-11-01 18:04:17.216604
+Name: 147727, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjUyLGE2ZTZhN2NkMzRiMTJmNTI2ZGJkMmFjN2MyODExNT...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 18:05:02.524700
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjU2LDBjYmRkZjlmNTA5ODQ0YmY0ZTFhZTI4MDJiMWY0Nm...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebb9cb5a7...
+timestamp                              2021-11-01 18:15:17.059796
+Name: 149212, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjU3LDA0YmUwZDgxMDNhOGNlNjU3NWRmMzhhMWFjOTU0ZW...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://i.scdn.co/image/ab67706c0000bebb9cb5a7...
+timestamp                              2021-11-01 18:16:02.657206
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjYxLDdmMzdhZmJhZmYxYmY2NDJhY2I3NThhMGFiZGU4ZT...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebb98265a...
+timestamp                              2021-11-01 18:27:17.866204
+Name: 150832, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjYyLDkyODFmODZhNzA2OTc1M2IxZmZiMmRjZGRhOWI4Ym...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 18:29:02.862201
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjY2LDEwNGYwYTE4Mzg3MGFiZjRjNzZlZDc2ZTdhNjE0Ym...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebb0471dc...
+timestamp                              2021-11-01 18:49:17.973087
+Name: 153802, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjY3LDc4OWE1MzI5YjNiODhkMTI0ZDcxMmU2YzRlM2E1Yz...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 18:50:02.433334
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjcxLDEwNWZhZDJhYzgyMTdjMDI0ODBkODlmMGUzZTFkNj...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebb3d4aa7...
+timestamp                              2021-11-01 19:01:18.315172
+Name: 155422, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjcyLDNmYmI3YzEzODk0YjIxNTc3Y2M1ZTZlODFkMGRkN2...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 19:03:02.393100
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     Mjc2LGRiYzUzMTE5MmFjYTM5MTNhYjMyODhlMDk4Yjg5Zj...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebb2949b0...
+timestamp                              2021-11-01 19:14:18.533828
+Name: 157177, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     Mjc3LGZjZDljMjMyN2VhNzVlZTVhMzBiNGI1MWM1N2YwMT...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 19:15:03.017337
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjgxLDliZmU2ODUyYWFlM2E4YTY0NzIxOTViYmFmOWZlOW...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebbe5b465...
+timestamp                              2021-11-01 19:27:17.963853
+Name: 158932, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjgyLGVjZDRmOTI3NTM0YTBkODMzMGFlNjYxMzY4NmU2Y2...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 19:29:02.536622
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     Mjg2LGFlYTQ2MjgzZDhhOWJhNGQyZWY1NGFiN2YyMDllM2...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebbe69b97...
+timestamp                              2021-11-01 19:39:18.520642
+Name: 160552, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     Mjg3LGY5ZGQ3NTNlOGUzYTdlZDEwZjBlNzNiMWY4Y2FhMD...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 19:40:02.963546
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjkxLDE5ZWRiNDhhYjViMjc3Yjc3ZDlmZWE3MmY2MGQzZj...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description     a cleaning &amp;amp;amp;amp;amp;amp;amp;amp;am...
+image_url       https://i.scdn.co/image/ab67706c0000bebb5ffa36...
+timestamp                              2021-11-01 19:52:19.165966
+Name: 162307, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     MjkyLDJlY2MxYWUwMjU1NTQyMGNlNmE5YTA0N2RjNDJkMG...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 19:53:02.713170
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     Mjk0LDgzYzlkYzFiZjRjMGZjZjM5NTQ0ZDRmZmJkMWEyZj...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description                                                      
+image_url       https://i.scdn.co/image/ab67706c0000bebb14f542...
+timestamp                              2021-11-01 20:03:18.834194
+Name: 163792, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     Mjk1LDU2YTAzOTA1MGQyYWMzYmVkN2NkMTQ4NDI3MDY0Zj...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 20:05:03.133483
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[(playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     Mjk3LGFlNjQ2NWFjNzc0ZmJkZTVmZjlkZDY3Zjg0MTY1OT...
+owner                                     spotify:user:1254757778
+name                                     getting my life together
+description                                                      
+image_url       https://i.scdn.co/image/ab67706c0000bebbca0409...
+timestamp                              2021-11-01 20:15:19.379318
+Name: 165412, dtype: object, playlist_uri              spotify:playlist:18JvowvBDcAz28wGqczaeK
+playlist_id                                18JvowvBDcAz28wGqczaeK
+snapshot_id     Mjk4LDM2ZmRmZTNkY2VhMTg1MDY1Y2JiODY1ZDgzNGRkMT...
+owner                                     spotify:user:1254757778
+name                                                             
+description                                                      
+image_url       https://mosaic.scdn.co/640/ab67616d0000b2734ee...
+timestamp                              2021-11-01 20:16:02.936777
+Name: 4, dtype: object)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
