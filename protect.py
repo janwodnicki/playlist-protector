@@ -67,14 +67,15 @@ def update_playlists(con, sp):
     
     for _, row in new.iterrows():
         old_snaps = old[old.snapshot_id != row.snapshot_id].copy()
-        matches = old_snaps[old_snaps.playlist_uri == row.playlist_uri].head(1)
+        matches = old_snaps[old_snaps.playlist_uri == row.playlist_uri]
+        matches = matches[matches.name != ""]
 
         # Don't do anything if playlist is new or there is no older snapshot to take from
         if len(matches) == 0: continue
         else: match = matches.iloc[0]
 
         # Send update request with old snapshot info if title is gone
-        if (not row['name']) and match['name']:
+        if not row['name']:
             playlist_id, name, description, image_url = match[['playlist_id', 'name', 'description', 'image_url']].to_list()
             if bool(description):
                 sp.playlist_change_details(playlist_id=playlist_id, name=name, description=description)
