@@ -1,13 +1,12 @@
 "Usage: protect.py <username>"
 
 from secret import CLIENT_ID, CLIENT_SECRET
-from settings REDIRECT_URI, DB_NAME, TABLE_NAME
+from settings import REDIRECT_URI, DB_NAME, TABLE_NAME
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
 from sqlite3 import Connection
 from datetime import datetime
-from pandas.io.sql import DatabaseError
 import requests
 import base64
 from docopt import docopt
