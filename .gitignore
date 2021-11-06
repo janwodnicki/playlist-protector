@@ -5,4 +5,5 @@ __pycache__
 .vscode
 *.db
 *.cache*
-config.py
+*secret*
+*log*

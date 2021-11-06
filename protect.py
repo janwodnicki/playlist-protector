@@ -1,9 +1,7 @@
-"""
-Usage: 
-    protect.py <username>
-"""
+"Usage: protect.py <username>"
 
-from config import CLIENT_ID, CLIENT_SECRET, REDIRECT_URI, DB_NAME
+from secret import CLIENT_ID, CLIENT_SECRET
+from settings REDIRECT_URI, DB_NAME, TABLE_NAME
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
@@ -55,39 +53,46 @@ def update_playlists(con, sp):
     new = get_playlists(sp)
     updated = list()
     if type(new) == bool:
-        if not new:
+        if not new: 
+            print("No playlists found")
             return updated
 
-    try:
-        old = pd.read_sql('select * from playlists', con)
-        old.sort_values('timestamp', ascending=False, inplace=True)
-    except DatabaseError:
-        new.to_sql('playlists', con, if_exists='fail', index=False)
+    # Check if playlists table exists
+    c = con.cursor()
+    c.execute(f"SELECT COUNT(name) FROM sqlite_master WHERE type='table' AND name='{TABLE_NAME}'")
+    if c.fetchone()[0]!=1:
+        print(f"{TABLE_NAME} does not exist, attempting to create from fetched playlists...")
+        new.to_sql(TABLE_NAME, con, if_exists='fail', index=False)
         return updated
     
     for _, row in new.iterrows():
-        old_snaps = old[old.snapshot_id != row.snapshot_id].copy()
-        matches = old_snaps[old_snaps.playlist_uri == row.playlist_uri]
-        matches = matches[matches.name != ""]
-
-        # Don't do anything if playlist is new or there is no older snapshot to take from
-        if len(matches) == 0: continue
-        else: match = matches.iloc[0]
-
-        # Send update request with old snapshot info if title is gone
         if not row['name']:
-            playlist_id, name, description, image_url = match[['playlist_id', 'name', 'description', 'image_url']].to_list()
-            if bool(description):
-                sp.playlist_change_details(playlist_id=playlist_id, name=name, description=description)
-            else:
-                sp.playlist_change_details(playlist_id=playlist_id, name=name)
-            sp.playlist_upload_cover_image(playlist_id=playlist_id, image_b64=get_as_base64(image_url))
-            updated.append((match, row))
+            qry = f"""
+            SELECT *
+            FROM {TABLE_NAME}
+            WHERE owner='{row.owner}'
+            AND snapshot_id<>'{row.snapshot_id}'
+            AND playlist_uri='{row.playlist_uri}'
+            AND name<>''
+            ORDER BY timestamp DESC
+            LIMIT 1
+            """
+            match = pd.read_sql(qry, con)
 
-        else: continue
+            if len(match) > 0:
+                match = match.iloc[0]
+                playlist_id, name, description, image_url = match[['playlist_id', 'name', 'description', 'image_url']].to_list()
+                if bool(description):
+                    sp.playlist_change_details(playlist_id=playlist_id, name=name, description=description)
+                else:
+                    sp.playlist_change_details(playlist_id=playlist_id, name=name)
+                sp.playlist_upload_cover_image(playlist_id=playlist_id, image_b64=get_as_base64(image_url))
+                updated.append((match, row))
+            else:
+                print(f"No matches found for playlist: {row['name']} - {row.playlist_id}, user needs to upload details manually")
     
     new = get_playlists(sp)
-    new.to_sql('playlists', con, if_exists='append', index=False)
+    new.to_sql(TABLE_NAME, con, if_exists='append', index=False)
     return updated
 
 if __name__ == "__main__":

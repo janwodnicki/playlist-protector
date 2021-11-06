@@ -5,7 +5,7 @@ Usage:
 
 from sqlite3 import Connection
 import pandas as pd
-from config import DB_NAME, USERS_DB
+from settings import DB_NAME, USERS_DB
 from docopt import docopt
 import json
 
