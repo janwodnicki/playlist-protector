@@ -1,13 +1,12 @@
 """
 Usage: 
-    print_db.py <username> [--limit=<int>]
+    print_db.py [--limit=<int>]
 """
 
-from sqlite3 import Connection
+from sqlite3 import connect
 import pandas as pd
-from settings import DB_NAME, USERS_DB
+from settings import DB_NAME
 from docopt import docopt
-import json
 
 if __name__ == "__main__":
     args = docopt(__doc__)
@@ -16,16 +15,8 @@ if __name__ == "__main__":
         limit = int(args['--limit'])
     except:
         limit = 10
-    users = json.load(open(USERS_DB, 'r'))
-
-    try:
-        uri = users[args['<username>']]['spotify_uri']
-    except:
-        print(f"user: {args['<username>']} not found")
-        exit()
         
-    con = Connection(DB_NAME)
-    df = pd.read_sql(f"SELECT * FROM playlists", con)
-    print(df[df.owner == uri].sort_values('timestamp', ascending=False).head(limit))
+    con = connect(DB_NAME)
+    print(pd.read_sql(f"SELECT * FROM playlists ORDER BY timestamp DESC LIMIT {limit}", con))
     con.close()
     exit()
