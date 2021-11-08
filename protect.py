@@ -5,7 +5,7 @@ from settings import REDIRECT_URI, DB_NAME, TABLE_NAME
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
-from sqlite3 import Connection
+from sqlite3 import connect
 from datetime import datetime
 import requests
 import base64
@@ -97,7 +97,7 @@ def update_playlists(con, sp):
 if __name__ == "__main__":
     args = docopt(__doc__)
     scope = 'playlist-read-private playlist-modify-private playlist-modify-public ugc-image-upload'
-    con = Connection(DB_NAME)
+    con = connect(DB_NAME)
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
         client_id=CLIENT_ID,
         client_secret=CLIENT_SECRET,
