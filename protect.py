@@ -14,6 +14,14 @@ from docopt import docopt
 def get_as_base64(url):
     return base64.b64encode(requests.get(url).content)
 
+def table_exists(db_name, table_name):
+    con = connect(db_name)
+    cur = con.cursor()
+    cur.execute(f"SELECT COUNT(name) FROM sqlite_master WHERE type='table' AND name='{table_name}'")
+    exists = cur.fetchone()[0] != 0
+    con.close()
+    return exists
+
 def get_playlists(sp):
     try:
         me = sp.me()['uri']
@@ -23,9 +31,9 @@ def get_playlists(sp):
         while results['next']:
             results = sp.next(results)
             playlists.extend(results['items'])
-    except Exception as e:
-        print(e)
-        return False
+    except:
+        print('Could not fetch playlists')
+        return None
     
     owner_playlists = [p for p in playlists if p['owner']['uri'] == me]
 
@@ -48,56 +56,57 @@ def get_playlists(sp):
         p_dicts.append(p_dict)
     return pd.DataFrame(p_dicts)
 
-def update_playlists(con, sp):
-    new = get_playlists(sp)
+def fix_reported(df, sp, db_name):
     updated = list()
-    if type(new) == bool:
-        if not new: 
-            print("No playlists found")
-            return updated
+    reported = df[df['name'] == ''].copy()
+    con = connect(db_name)
+    for _, row in reported.iterrows():
+        qry = f"""
+        SELECT *
+        FROM {TABLE_NAME}
+        WHERE owner='{row.owner}'
+        AND snapshot_id<>'{row.snapshot_id}'
+        AND playlist_uri='{row.playlist_uri}'
+        AND name<>''
+        ORDER BY timestamp DESC
+        LIMIT 1
+        """
+        match = pd.read_sql(qry, con)
+        if len(match) > 0:
+            match = match.iloc[0]
+            playlist_id, name, description, image_url = match[['playlist_id', 'name', 'description', 'image_url']].to_list()
+            if bool(description): sp.playlist_change_details(playlist_id=playlist_id, name=name, description=description)
+            else: sp.playlist_change_details(playlist_id=playlist_id, name=name)
+            sp.playlist_upload_cover_image(playlist_id=playlist_id, image_b64=get_as_base64(image_url))
+            updated.append((match, row))
+        else:
+            print(f"No matches found for playlist: {row['name']} - {row.playlist_id}, user needs to upload details manually")
+    con.close()
+    print(updated)
+    return
 
-    # Check if playlists table exists
-    c = con.cursor()
-    c.execute(f"SELECT COUNT(name) FROM sqlite_master WHERE type='table' AND name='{TABLE_NAME}'")
-    if c.fetchone()[0]!=1:
-        print(f"{TABLE_NAME} does not exist, attempting to create from fetched playlists...")
-        new.to_sql(TABLE_NAME, con, if_exists='fail', index=False)
-        return updated
-    
-    for _, row in new.iterrows():
-        if not row['name']:
-            qry = f"""
-            SELECT *
-            FROM {TABLE_NAME}
-            WHERE owner='{row.owner}'
-            AND snapshot_id<>'{row.snapshot_id}'
-            AND playlist_uri='{row.playlist_uri}'
-            AND name<>''
-            ORDER BY timestamp DESC
-            LIMIT 1
-            """
-            match = pd.read_sql(qry, con)
+def update_database(df, db_name):
+    con = connect(db_name)
+    snapshots = set(pd.read_sql("SELECT DISTINCT snapshot_id FROM playlists", con).snapshot_id.to_list())
+    df_append = df[(df['name'] != '') & (~df.snapshot_id.isin(snapshots))].copy()
+    df_append.to_sql('playlists', con, if_exists='append', index=False)
+    con.close()
+    return
 
-            if len(match) > 0:
-                match = match.iloc[0]
-                playlist_id, name, description, image_url = match[['playlist_id', 'name', 'description', 'image_url']].to_list()
-                if bool(description):
-                    sp.playlist_change_details(playlist_id=playlist_id, name=name, description=description)
-                else:
-                    sp.playlist_change_details(playlist_id=playlist_id, name=name)
-                sp.playlist_upload_cover_image(playlist_id=playlist_id, image_b64=get_as_base64(image_url))
-                updated.append((match, row))
-            else:
-                print(f"No matches found for playlist: {row['name']} - {row.playlist_id}, user needs to upload details manually")
-    
-    new = get_playlists(sp)
-    new.to_sql(TABLE_NAME, con, if_exists='append', index=False)
-    return updated
+def fix_and_update(sp, db_name):
+    playlists = get_playlists(sp)
+    if type(playlists) != type(None):
+        if not table_exists(db_name, 'playlists'):
+            con = connect(db_name)
+            playlists.to_sql('playlists', con, if_exists='append', index=False)
+            con.close()
+        fix_reported(playlists, sp, db_name)
+        update_database(playlists, db_name)
+    return
 
 if __name__ == "__main__":
     args = docopt(__doc__)
     scope = 'playlist-read-private playlist-modify-private playlist-modify-public ugc-image-upload'
-    con = connect(DB_NAME)
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
         client_id=CLIENT_ID,
         client_secret=CLIENT_SECRET,
@@ -107,6 +116,5 @@ if __name__ == "__main__":
         username=args['<username>']
         )
     )
-    print(update_playlists(con, sp))
-    con.close()
+    fix_and_update(sp, DB_NAME)
     exit()
