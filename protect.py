@@ -79,7 +79,7 @@ def fix_reported(df, sp, db_name):
             if bool(description): sp.playlist_change_details(playlist_id=playlist_id, name=name, description=description)
             else: sp.playlist_change_details(playlist_id=playlist_id, name=name)
             sp.playlist_upload_cover_image(playlist_id=playlist_id, image_b64=get_as_base64(image_url))
-            updated.append((match, row))
+            updated.append(f"{match['name']}: <{match.snapshot_id}> {match.timestamp} -> {row.timestamp}")
         else:
             print(f"No matches found for playlist: {row['name']} - {row.playlist_id}, user needs to upload details manually")
     con.close()
