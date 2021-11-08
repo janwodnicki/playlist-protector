@@ -59,6 +59,7 @@ def get_playlists(sp):
 def fix_reported(df, sp, db_name):
     updated = list()
     reported = df[df['name'] == ''].copy()
+    if len(reported) == 0: return
     con = connect(db_name)
     for _, row in reported.iterrows():
         qry = f"""
