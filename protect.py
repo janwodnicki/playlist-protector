@@ -5,17 +5,18 @@ from settings import REDIRECT_URI, DB_NAME, TABLE_NAME
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
-from sqlite3 import connect
+import sqlite3
 from datetime import datetime
 import requests
 import base64
 from docopt import docopt
+from html import unescape
 
 def get_as_base64(url):
     return base64.b64encode(requests.get(url).content)
 
 def table_exists(db_name, table_name):
-    con = connect(db_name)
+    con = sqlite3.connect(db_name)
     cur = con.cursor()
     cur.execute(f"SELECT COUNT(name) FROM sqlite_master WHERE type='table' AND name='{table_name}'")
     exists = cur.fetchone()[0] != 0
@@ -48,8 +49,8 @@ def get_playlists(sp):
             'playlist_id': p['id'],
             'snapshot_id': p['snapshot_id'],
             'owner': p['owner']['uri'],
-            'name': p['name'],
-            'description': p['description'],
+            'name': unescape(p['name']),
+            'description': unescape(p['description']),
             'image_url': image_url,
             'timestamp': datetime.now()
         })
@@ -60,7 +61,7 @@ def fix_reported(df, sp, db_name):
     updated = list()
     reported = df[df['name'] == ''].copy()
     if len(reported) == 0: return
-    con = connect(db_name)
+    con = sqlite3.connect(db_name)
     for _, row in reported.iterrows():
         qry = f"""
         SELECT *
@@ -87,7 +88,7 @@ def fix_reported(df, sp, db_name):
     return
 
 def update_database(df, db_name):
-    con = connect(db_name)
+    con = sqlite3.connect(db_name)
     snapshots = set(pd.read_sql("SELECT DISTINCT snapshot_id FROM playlists", con).snapshot_id.to_list())
     df_append = df[(df['name'] != '') & (~df.snapshot_id.isin(snapshots))].copy()
     df_append.to_sql('playlists', con, if_exists='append', index=False)
@@ -98,7 +99,7 @@ def fix_and_update(sp, db_name):
     playlists = get_playlists(sp)
     if type(playlists) != type(None):
         if not table_exists(db_name, 'playlists'):
-            con = connect(db_name)
+            con = sqlite3.connect(db_name)
             playlists.to_sql('playlists', con, if_exists='append', index=False)
             con.close()
         fix_reported(playlists, sp, db_name)
