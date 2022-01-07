@@ -18,6 +18,6 @@ if __name__ == "__main__":
         
     con = connect(DB_NAME)
     df = pd.read_sql(f"SELECT * FROM playlists ORDER BY timestamp DESC LIMIT {limit}", con)
-    print(df['playlist_id', 'name', 'description', 'timestamp'])
+    print(df[['playlist_id', 'name', 'description', 'timestamp']])
     con.close()
     exit()
