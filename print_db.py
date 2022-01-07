@@ -17,6 +17,7 @@ if __name__ == "__main__":
         limit = 10
         
     con = connect(DB_NAME)
-    print(pd.read_sql(f"SELECT * FROM playlists ORDER BY timestamp DESC LIMIT {limit}", con))
+    df = pd.read_sql(f"SELECT * FROM playlists ORDER BY timestamp DESC LIMIT {limit}", con)
+    print(df['playlist_id', 'name', 'description', 'timestamp'])
     con.close()
     exit()
