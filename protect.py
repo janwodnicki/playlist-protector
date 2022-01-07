@@ -115,7 +115,7 @@ if __name__ == "__main__":
         redirect_uri=REDIRECT_URI,
         scope=scope,
         open_browser=False,
-        username='args['<username>']'
+        username=args['<username>']
         )
     )
     fix_and_update(sp, DB_NAME)
